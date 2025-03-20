@@ -64,4 +64,38 @@ console.log(typeof scoreValue);
 //        Function  =>  function
 //        Object  =>       object
 
-// https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//Website for Further Studies:- //https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+// ******************************************************************************************
+
+// Stacks(Primitive) and Heap(Non-Primitive):
+
+let myName = "kumartanaydotcom"
+let anotherName = myName
+anotherName= "dhiraj"
+
+console.log(myName);
+console.log(anotherName);
+
+let userOne={
+    email:"userone@googlr.com",
+    upi:"user@ybl"
+}
+
+let userTwo = userOne 
+
+userTwo.email = "tanay@google.com"
+
+console.log(userOne.email);
+console.log(userOne.upi);
+
+console.log(userTwo.email);
+
+
+
+
+
+
