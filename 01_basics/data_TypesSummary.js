@@ -47,6 +47,7 @@ console.log(typeof scoreValue);
 
 
 // Return type of variables in JavaScript
+// 
 // =======================
 //(1) Primitive Datatypes:
 // ---------------------------------------------------
@@ -93,6 +94,7 @@ console.log(userOne.email);
 console.log(userOne.upi);
 
 console.log(userTwo.email);
+
 
 
 
