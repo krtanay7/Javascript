@@ -63,6 +63,7 @@ users[1].email
 
 //************Object de-structure and JSON API intro***********************************************************************************************************************************************
 
+
 const course = {
     courseName: "Chemistry course",
     price: "999",
