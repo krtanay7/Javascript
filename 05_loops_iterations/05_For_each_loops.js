@@ -1,4 +1,4 @@
-// 'for each' functions
+// 'for each' loops
 
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
