@@ -23,7 +23,7 @@
 - Instances (new, this)
 
 
-## 4 pillars
+## 4 pillars of OOP
 - Abstraction
 - Encapsulation
 - Inheritance
